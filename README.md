@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Handwritten OCR Project**
+- 🔭 I’m currently working on **Face Recognition System Project**
 - 🌱 I’m currently learning **ReactJs, Node.js, Ansible, AWS**
 - 💬 Ask me about **Android, Data Analysis Problems**
 - 📫 How to reach me: **piyushooo28@gmail.com**
